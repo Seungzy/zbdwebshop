@@ -16,5 +16,6 @@ export default defineConfig({
     },
   },
 
-  base: '/',
+  // Base path for GitHub Pages deployment
+  base: '/zbdwebshop/',
 })
