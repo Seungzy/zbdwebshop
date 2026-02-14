@@ -1,4 +1,4 @@
-import { createRouter, createWebHistory } from 'vue-router'
+import { createRouter, createWebHashHistory } from 'vue-router'
 import Home from '../pages/Home.vue'
 import About from '../pages/About.vue'
 import Catalog from '../pages/Catalog.vue'
@@ -11,7 +11,7 @@ import PaymentDelivery from '../pages/PaymentDelivery.vue'
 import TransactionConfirmation from '../pages/TransactionConfirmation.vue'
 
 export default createRouter({
-    history: createWebHistory(),
+    history: createWebHashHistory(),
     routes: [
         { path: '/', component: Home},
         { path: '/about', component: About},
