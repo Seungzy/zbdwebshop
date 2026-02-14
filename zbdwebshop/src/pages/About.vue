@@ -1,39 +1,4 @@
 <template>
-  <section id="flavors">
-    <h2>Our Best Sellers</h2>
-
-    <div class="menu-grid">
-      <div class="menu-item">
-        <img src="/images/Homemade-Vanilla-Ice-Cream-A22-1-P7270022.jpg" alt="Vanilla Ice Cream" />
-        <h3>Vanilla</h3>
-      </div>
-
-      <div class="menu-item">
-        <img src="/images/vegan-chocolate-ice-cream-recipe.jpg" alt="Chocolate Ice Cream" />
-        <h3>Chocolate</h3>
-      </div>
-
-      <div class="menu-item">
-        <img src="/images/images.jpeg" alt="Strawberry Ice Cream" />
-        <h3>Strawberry</h3>
-      </div>
-
-      <div class="menu-item">
-        <img src="/images/Easy-Mango-Coconut-Ice-Cream_done.png.webp" alt="Mango Ice Cream" />
-        <h3>Mango</h3>
-      </div>
-
-      <div class="menu-item">
-        <img src="/images/Cookies-and-Cream-Ice-Cream-Recipe-3.jpg" alt="Cookies and Cream Ice Cream" />
-        <h3>Cookies and Cream</h3>
-      </div>
-    </div>
-
-    <div style="text-align: center; margin-top: 30px;">
-      <RouterLink to="/catalog" class="see-more-btn">See More</RouterLink>
-    </div>
-  </section>
-
   <section id="about">
     <h2>About Us</h2>
 
