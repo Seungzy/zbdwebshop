@@ -19,6 +19,7 @@ Since the focus of the course was learning the framework itself, the application
 - Navigation between pages
 - Login and Sign Up interface
 - Responsive user interface
+- Mobile First approach
 
 ## Important Notes
 
